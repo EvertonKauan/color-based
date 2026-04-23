@@ -12,7 +12,7 @@ This pipeline is **intuitive** and can work when visuals are very standardized, 
 
 ## How to run (annotated videos)
 
-Requirements: Python with `opencv-python`, `numpy`, `ultralytics`, and a YOLO weights file (default `yolo11n-pose.pt` in this directory).
+Requirements: Python with `opencv-python`, `numpy`, `ultralytics`, and a YOLO weights file.
 
 ```bash
 python run_based_color_videos.py --videos-dir videos --out-dir annotated_compare --export-schema 3_c
