@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Model weights
+*.pt
+
+# Video files
+*.mp4
+*.MP4
+*.mkv
+*.MKV
+*.webm
+*.WEBM
+*.avi
+*.AVI
+*.mov
+*.MOV
+*.m4v
+*.M4V
+*.wmv
+*.WMV
+*.flv
+*.FLV
